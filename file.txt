@@ -1,0 +1,17 @@
+IP_ADDRESS=37.139.13.186
+IP_ADDRESS=146.185.165.132
+IP_ADDRESS=146.185.165.132
+IP_ADDRESS=104.236.147.196
+IP_ADDRESS=107.170.205.59
+IP_ADDRESS=107.170.205.59
+IP_ADDRESS=107.170.209.181
+IP_ADDRESS=198.199.64.171
+IP_ADDRESS=198.199.64.171
+IP_ADDRESS=138.68.2.211
+no any droplet! you must create droplet before doing configuration.
+no any droplet! you must create droplet before doing configuration.
+no any droplet! you must create droplet before doing configuration.
+no any droplet! you must create droplet before doing configuration.
+no any droplet! you must create droplet before doing configuration.
+no any droplet! you must create droplet before doing configuration.
+no any droplet! you must create droplet before doing configuration.
